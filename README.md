@@ -1,8 +1,8 @@
-# Roman
+# Roman Numerals
 ## by Amy Hwang
 
 # description of program
-This webpage takes a number from a user and returns the roman numeral version of the number,
+This webpage takes a number from a user and converts a roman numeral.
 
 # program setup instructions
 * Clone this repository.
